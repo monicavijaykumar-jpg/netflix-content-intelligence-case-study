@@ -25,6 +25,7 @@ With the massive growth of streaming platforms, understanding content distributi
 - Which genres are most popular on Netflix?
 - Which age-rating category has the most content?	
 
+---
 
 ## 🧹 1. Data Preprocessing
 - **Handling Missing Values:** Cleaned and imputed null entries in director, cast, and country attributes, and safely dropped sparse records.
