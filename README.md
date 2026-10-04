@@ -44,7 +44,7 @@ We trained and evaluated robust classifiers to analyze and categorize content:
 ---
 
 ## 📈 4. Conclusion & Results
-After comparing the performance of all implemented classifiers, **Logistic Regression** achieved the best and most reliable accuracy for our prediction tasks on this dataset. It successfully captured the linear boundaries among features, making it the optimal model for this case study.
+After analysing the performances of all three algorithms demonstrated strong classification capabilities. Comparatively, Linear SVM provided the highest overall predictive edge, achieving top accuracy on Rating and matching top performance on Country prediction.
 
 ---
 
