@@ -56,4 +56,4 @@ After analysing the performances of all three algorithms demonstrated strong cla
 ---
 
 ## ✨ Acknowledgments
-This project was successfully designed and implemented as a collaborative college assignment by our team of three. Special thanks to our department faculty for guidance throughout this case study.
+This project was successfully designed and implemented as a collaborative college assignment by our team of three. Special thanks to our staff who encouraged to do this study.
