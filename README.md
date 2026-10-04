@@ -20,6 +20,12 @@ With the massive growth of streaming platforms, understanding content distributi
 
 ---
 
+## 🔮 Predictions
+- Which countries produce the most Netflix content?
+- Which genres are most popular on Netflix?
+- Which age-rating category has the most content?	
+
+
 ## 🧹 1. Data Preprocessing
 - **Handling Missing Values:** Cleaned and imputed null entries in director, cast, and country attributes, and safely dropped sparse records.
 - **Label Encoding & Cleaning:** Converted categorical text classes into numerical integer labels and standardized date formats.
