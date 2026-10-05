@@ -7,12 +7,12 @@ A comprehensive machine learning case study and data analysis project developed 
 ---
 
 ## 🚀 Project Overview
-With the massive growth of streaming platforms, understanding content distribution and predicting metadata patterns is essential. This academic case study leverages a comprehensive Netflix dataset to perform end-to-end data analysis and predictive modeling as assigned by our college department.
+With the massive growth of streaming platforms, understanding content distribution and predicting metadata patterns is essential. This academic case study leverages a comprehensive Netflix dataset to perform end-to-end data analysis and predictive modeling.
 
 ---
 
 ## 🛠️ Tech Stack & Libraries
-- **Language:** Python (`.ipynb` / Jupyter Notebook)
+- **Language:** Python (Google Colab and Jupyter Notebook)
 - **Data Manipulation & Analysis:** Pandas, NumPy
 - **Machine Learning & Preprocessing:** Scikit-Learn
 - **Visualization:** Seaborn, Matplotlib
@@ -28,13 +28,13 @@ With the massive growth of streaming platforms, understanding content distributi
 ---
 
 ## 🧹 1. Data Preprocessing
-- **Handling Missing Values:** Cleaned and imputed null entries in director, cast, and country attributes, and safely dropped sparse records.
+- **Handling Missing Values:** Cleaned and imputed null entries in director, cast, country and rating attributes, and safely dropped sparse records.
 - **Label Encoding & Cleaning:** Converted categorical text classes into numerical integer labels and standardized date formats.
-- **TF-IDF Vectorization:** Transformed textual descriptions and summaries into high-dimensional numerical feature vectors for NLP and classification tasks.
+- **TF-IDF Vectorization:** Transformed textual descriptions and summaries into high-dimensional numerical feature vectors for NLP[Natural Language Processing] and classification tasks.
 
 ---
 
-## 🎯 2. Exploratory Predictions & Insights
+## 🎯 2. Exploratory Data Analysis & Insights
 As part of our study, we focused on three key predictive insights from the dataset:
 1. **Top Content Producing Country:** Identified which countries contribute the highest volume of movies and TV shows to the Netflix platform.
 2. **Most Popular & Watched Genres:** Analyzed genre distributions to find which categories dominate the platform and capture maximum viewer engagement.
